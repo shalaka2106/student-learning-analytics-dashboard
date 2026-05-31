@@ -1,0 +1,214 @@
+﻿Student_ID,Name,Class,Subject,Marks,Attendance,Assignment_Score,Performance_Category,Risk_Status
+1,Anaya_1,10A,Computer,48,69,100,Needs Improvement,At Risk
+2,Reyansh_2,9B,Computer,74,95,56,Good,Normal
+3,Advik_3,9A,Maths,97,80,76,Excellent,Normal
+4,Dev_4,10A,Computer,45,68,66,Needs Improvement,At Risk
+5,Ishaan_5,9A,Maths,73,79,96,Good,Normal
+6,Diya_6,10B,English,84,81,51,Excellent,Normal
+7,Diya_7,9B,Computer,76,72,72,Good,Normal
+8,Atharv_8,10A,Computer,74,96,57,Good,Normal
+9,Arjun_9,9B,English,75,96,77,Good,Normal
+10,Siya_10,9B,Maths,95,64,90,Excellent,Normal
+11,Rohan_11,10B,Computer,63,71,82,Good,Normal
+12,Reyansh_12,10A,English,42,95,100,Needs Improvement,Normal
+13,Siya_13,9B,Computer,89,95,98,Excellent,Normal
+14,Aditi_14,10B,Computer,70,71,77,Good,Normal
+15,Rohan_15,9B,English,90,89,45,Excellent,Normal
+16,Atharv_16,10B,English,96,60,73,Excellent,Normal
+17,Atharv_17,10A,Maths,92,92,80,Excellent,Normal
+18,Atharv_18,9A,English,55,81,56,Needs Improvement,Normal
+19,Rohan_19,9B,Maths,62,75,100,Good,Normal
+20,Meera_20,10B,Computer,80,79,53,Excellent,Normal
+21,Sneha_21,9B,Social Science,81,87,66,Excellent,Normal
+22,Anaya_22,9B,Maths,95,84,44,Excellent,Normal
+23,Kavya_23,10B,Social Science,74,100,81,Good,Normal
+24,Meera_24,10B,Science,91,69,55,Excellent,Normal
+25,Aarav_25,10B,Science,67,86,54,Good,Normal
+26,Advik_26,10A,Social Science,93,60,75,Excellent,Normal
+27,Kavya_27,9B,Science,41,69,65,Needs Improvement,At Risk
+28,Atharv_28,10B,Maths,38,76,62,Needs Improvement,Normal
+29,Meera_29,9B,Social Science,35,79,75,Needs Improvement,Normal
+30,Ishaan_30,10B,Science,80,80,58,Excellent,Normal
+31,Pooja_31,9B,English,53,73,77,Needs Improvement,At Risk
+32,Anaya_32,10B,English,47,67,81,Needs Improvement,At Risk
+33,Sneha_33,10A,Science,83,84,67,Excellent,Normal
+34,Priya_34,10A,Science,85,77,82,Excellent,Normal
+35,Anaya_35,9B,Maths,46,99,48,Needs Improvement,Normal
+36,Aditi_36,10A,Social Science,76,72,51,Good,Normal
+37,Pooja_37,10A,Social Science,82,82,91,Excellent,Normal
+38,Atharv_38,10A,Maths,80,85,41,Excellent,Normal
+39,Aarav_39,10A,Social Science,98,63,79,Excellent,Normal
+40,Kabir_40,9B,Computer,35,92,48,Needs Improvement,Normal
+41,Siya_41,9B,Maths,64,62,48,Good,Normal
+42,Aarav_42,10B,English,92,87,43,Excellent,Normal
+43,Kavya_43,9B,Computer,73,85,91,Good,Normal
+44,Atharv_44,10B,Maths,65,70,62,Good,Normal
+45,Kabir_45,10A,Maths,72,84,43,Good,Normal
+46,Kabir_46,9A,Science,48,98,99,Needs Improvement,Normal
+47,Sneha_47,10A,Maths,47,62,48,Needs Improvement,At Risk
+48,Rohan_48,9A,Social Science,39,77,59,Needs Improvement,Normal
+49,Atharv_49,10B,Social Science,78,96,50,Good,Normal
+50,Meera_50,10A,Social Science,71,63,55,Good,Normal
+51,Anaya_51,9B,Social Science,37,90,99,Needs Improvement,Normal
+52,Sneha_52,10B,Science,82,96,91,Excellent,Normal
+53,Pooja_53,10B,Social Science,91,78,64,Excellent,Normal
+54,Advik_54,10B,Science,45,71,72,Needs Improvement,At Risk
+55,Reyansh_55,9A,Maths,79,90,56,Good,Normal
+56,Siya_56,10B,Computer,91,77,41,Excellent,Normal
+57,Ishaan_57,9A,English,61,63,68,Good,Normal
+58,Priya_58,9B,Computer,80,94,89,Excellent,Normal
+59,Rohan_59,9B,Social Science,38,77,71,Needs Improvement,Normal
+60,Aarav_60,9A,English,62,65,97,Good,Normal
+61,Aarav_61,9B,Computer,60,86,94,Good,Normal
+62,Kabir_62,10B,Science,62,73,43,Good,Normal
+63,Kabir_63,9B,Social Science,88,99,87,Excellent,Normal
+64,Riya_64,9A,Computer,74,86,65,Good,Normal
+65,Pooja_65,10B,Science,96,100,75,Excellent,Normal
+66,Rohan_66,10A,Social Science,87,86,100,Excellent,Normal
+67,Diya_67,9A,Social Science,39,70,98,Needs Improvement,At Risk
+68,Kavya_68,10A,Computer,40,86,51,Needs Improvement,Normal
+69,Vivaan_69,9A,Computer,69,70,72,Good,Normal
+70,Aditi_70,10A,Social Science,45,84,89,Needs Improvement,Normal
+71,Sneha_71,10A,Computer,87,61,82,Excellent,Normal
+72,Pooja_72,10A,Maths,76,77,71,Good,Normal
+73,Priya_73,9B,Science,65,86,63,Good,Normal
+74,Atharv_74,9A,Maths,65,67,57,Good,Normal
+75,Sneha_75,9A,English,73,77,66,Good,Normal
+76,Aarav_76,10A,Science,68,87,61,Good,Normal
+77,Pooja_77,9A,Maths,48,84,73,Needs Improvement,Normal
+78,Ishaan_78,10A,Computer,63,60,43,Good,Normal
+79,Meera_79,10B,English,49,73,55,Needs Improvement,At Risk
+80,Vivaan_80,10B,Maths,77,67,48,Good,Normal
+81,Rohan_81,9A,Computer,96,88,75,Excellent,Normal
+82,Aarav_82,9A,Computer,51,60,74,Needs Improvement,At Risk
+83,Riya_83,9B,Social Science,37,96,41,Needs Improvement,Normal
+84,Kavya_84,9A,Social Science,74,73,60,Good,Normal
+85,Sneha_85,10B,Maths,35,70,75,Needs Improvement,At Risk
+86,Riya_86,9B,Science,97,81,62,Excellent,Normal
+87,Priya_87,9B,Maths,49,67,53,Needs Improvement,At Risk
+88,Diya_88,10A,Science,70,84,95,Good,Normal
+89,Diya_89,9A,Social Science,92,76,41,Excellent,Normal
+90,Advik_90,9B,Maths,36,99,66,Needs Improvement,Normal
+91,Advik_91,9A,Computer,57,80,84,Needs Improvement,Normal
+92,Dev_92,10A,English,52,65,42,Needs Improvement,At Risk
+93,Atharv_93,10B,English,59,64,92,Needs Improvement,At Risk
+94,Dev_94,9A,Computer,55,78,60,Needs Improvement,Normal
+95,Sneha_95,9B,Computer,69,97,75,Good,Normal
+96,Anaya_96,9A,Science,83,75,60,Excellent,Normal
+97,Pooja_97,10B,English,77,64,80,Good,Normal
+98,Meera_98,10B,Computer,74,61,82,Good,Normal
+99,Kabir_99,10B,Computer,93,67,42,Excellent,Normal
+100,Advik_100,9A,Science,95,89,60,Excellent,Normal
+101,Pooja_101,10A,Social Science,83,61,69,Excellent,Normal
+102,Aditi_102,10A,Computer,71,82,80,Good,Normal
+103,Ishaan_103,9B,English,97,81,64,Excellent,Normal
+104,Aditi_104,10B,Social Science,41,72,55,Needs Improvement,At Risk
+105,Reyansh_105,10A,Maths,55,94,94,Needs Improvement,Normal
+106,Arjun_106,9A,English,48,97,49,Needs Improvement,Normal
+107,Rohan_107,9B,Computer,98,80,45,Excellent,Normal
+108,Ishaan_108,9A,Science,96,76,73,Excellent,Normal
+109,Pooja_109,9A,Computer,79,84,56,Good,Normal
+110,Atharv_110,10A,Social Science,79,92,73,Good,Normal
+111,Arjun_111,10A,English,75,72,83,Good,Normal
+112,Advik_112,10A,Science,76,94,79,Good,Normal
+113,Meera_113,10B,Computer,90,60,58,Excellent,Normal
+114,Sneha_114,10A,Science,64,72,68,Good,Normal
+115,Dev_115,10B,Maths,46,96,41,Needs Improvement,Normal
+116,Kabir_116,10B,Maths,84,71,52,Excellent,Normal
+117,Atharv_117,9A,Science,52,77,45,Needs Improvement,Normal
+118,Arjun_118,10A,English,89,61,43,Excellent,Normal
+119,Ishaan_119,9A,Social Science,75,99,95,Good,Normal
+120,Anaya_120,10A,Social Science,42,87,70,Needs Improvement,Normal
+121,Anaya_121,9A,Social Science,49,63,43,Needs Improvement,At Risk
+122,Diya_122,9A,Science,73,74,59,Good,Normal
+123,Priya_123,10A,Social Science,39,86,54,Needs Improvement,Normal
+124,Vivaan_124,10B,English,52,85,89,Needs Improvement,Normal
+125,Meera_125,10B,English,82,88,67,Excellent,Normal
+126,Priya_126,10B,Social Science,73,94,45,Good,Normal
+127,Aditi_127,10A,Maths,65,91,77,Good,Normal
+128,Arjun_128,10A,Science,93,61,43,Excellent,Normal
+129,Arjun_129,9A,English,37,81,61,Needs Improvement,Normal
+130,Rohan_130,10A,Social Science,59,94,41,Needs Improvement,Normal
+131,Sneha_131,10B,Maths,66,66,45,Good,Normal
+132,Aarav_132,10B,Social Science,65,74,44,Good,Normal
+133,Meera_133,10A,Social Science,59,62,55,Needs Improvement,At Risk
+134,Anaya_134,9A,Computer,65,76,73,Good,Normal
+135,Aarav_135,9A,Social Science,37,60,67,Needs Improvement,At Risk
+136,Riya_136,9B,Science,59,68,93,Needs Improvement,At Risk
+137,Riya_137,9B,Social Science,67,93,57,Good,Normal
+138,Reyansh_138,10B,Science,84,73,88,Excellent,Normal
+139,Sneha_139,9B,Computer,69,67,53,Good,Normal
+140,Kavya_140,9A,Computer,87,100,46,Excellent,Normal
+141,Advik_141,10A,English,37,69,87,Needs Improvement,At Risk
+142,Vivaan_142,10B,Science,83,69,97,Excellent,Normal
+143,Dev_143,9A,English,49,95,96,Needs Improvement,Normal
+144,Kabir_144,9B,Maths,77,97,91,Good,Normal
+145,Priya_145,9B,Maths,44,97,47,Needs Improvement,Normal
+146,Priya_146,10B,Science,70,88,82,Good,Normal
+147,Priya_147,10B,Social Science,92,67,85,Excellent,Normal
+148,Kavya_148,9B,Maths,47,69,81,Needs Improvement,At Risk
+149,Meera_149,10B,Science,62,70,78,Good,Normal
+150,Arjun_150,9B,Social Science,89,85,73,Excellent,Normal
+151,Pooja_151,9B,Computer,44,60,75,Needs Improvement,At Risk
+152,Aarav_152,10A,Maths,59,91,72,Needs Improvement,Normal
+153,Aditi_153,10A,Computer,41,80,56,Needs Improvement,Normal
+154,Sneha_154,9B,Science,41,67,41,Needs Improvement,At Risk
+155,Siya_155,9A,Science,40,62,40,Needs Improvement,At Risk
+156,Advik_156,9B,Maths,36,96,83,Needs Improvement,Normal
+157,Rohan_157,9B,English,55,84,88,Needs Improvement,Normal
+158,Aarav_158,9A,Science,60,85,73,Good,Normal
+159,Reyansh_159,10B,English,39,96,40,Needs Improvement,Normal
+160,Rohan_160,9B,English,70,85,84,Good,Normal
+161,Kabir_161,10A,Social Science,87,98,82,Excellent,Normal
+162,Dev_162,9B,Science,38,71,59,Needs Improvement,At Risk
+163,Pooja_163,9A,Computer,67,65,74,Good,Normal
+164,Aditi_164,9A,Maths,91,94,50,Excellent,Normal
+165,Aarav_165,10B,Social Science,49,87,81,Needs Improvement,Normal
+166,Vivaan_166,9B,Maths,57,74,81,Needs Improvement,At Risk
+167,Aarav_167,9A,English,57,88,86,Needs Improvement,Normal
+168,Ishaan_168,9B,Maths,74,81,73,Good,Normal
+169,Vivaan_169,9A,Science,88,67,52,Excellent,Normal
+170,Pooja_170,9A,Social Science,44,64,75,Needs Improvement,At Risk
+171,Rohan_171,9B,Computer,93,84,84,Excellent,Normal
+172,Dev_172,9A,English,64,98,99,Good,Normal
+173,Aditi_173,9B,Science,49,83,69,Needs Improvement,Normal
+174,Dev_174,10A,Social Science,80,100,81,Excellent,Normal
+175,Siya_175,10A,English,86,100,48,Excellent,Normal
+176,Advik_176,9A,Science,61,91,71,Good,Normal
+177,Riya_177,10B,Computer,48,75,78,Needs Improvement,Normal
+178,Ishaan_178,10A,Social Science,40,91,41,Needs Improvement,Normal
+179,Meera_179,10A,Computer,72,73,90,Good,Normal
+180,Vivaan_180,9B,Maths,68,92,65,Good,Normal
+181,Anaya_181,10B,Social Science,67,63,45,Good,Normal
+182,Aarav_182,9B,Science,58,76,92,Needs Improvement,Normal
+183,Riya_183,9A,Science,75,82,44,Good,Normal
+184,Siya_184,10A,Computer,89,64,95,Excellent,Normal
+185,Atharv_185,9A,Maths,55,73,99,Needs Improvement,At Risk
+186,Kavya_186,10A,English,91,70,43,Excellent,Normal
+187,Dev_187,9A,Social Science,61,74,94,Good,Normal
+188,Sneha_188,10B,English,54,66,92,Needs Improvement,At Risk
+189,Advik_189,9B,Science,81,87,65,Excellent,Normal
+190,Rohan_190,10B,Maths,62,63,95,Good,Normal
+191,Vivaan_191,9A,English,91,86,40,Excellent,Normal
+192,Rohan_192,10B,English,40,74,79,Needs Improvement,At Risk
+193,Aarav_193,10A,English,65,69,46,Good,Normal
+194,Anaya_194,9B,Science,65,63,41,Good,Normal
+195,Sneha_195,9A,Science,62,84,67,Good,Normal
+196,Riya_196,10A,Social Science,73,76,52,Good,Normal
+197,Kabir_197,9A,English,49,88,75,Needs Improvement,Normal
+198,Aarav_198,9A,Computer,59,88,41,Needs Improvement,Normal
+199,Vivaan_199,9A,Social Science,67,91,95,Good,Normal
+200,Vivaan_200,9A,Computer,82,97,64,Excellent,Normal
+,,,,,,,,
+,,,,,,,,
+,Average Marks,,,,,,,
+,66.855,,,,,,,
+,,,,,,,,
+,Highest Marks,,,,,,,
+,98,,,,,,,
+,,,,,,,,
+,Lowest Marks,,,,,,,
+,35,,,,,,,
+,,,,,,,,
+,Average Attendance,,,,,,,
+,79.38,,,,,,,
